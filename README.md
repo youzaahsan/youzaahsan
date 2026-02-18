@@ -35,6 +35,17 @@ I am a **passionate Full Stack Developer** with experience in web and mobile app
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youzaahsan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youzaahsan&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youzaahsan&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Tech Stack | Description |
