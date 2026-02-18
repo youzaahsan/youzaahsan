@@ -39,13 +39,11 @@ I believe great software is a balance between **performance, usability, and desi
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youzaahsan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=youzaahsan&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youzaahsan&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=youzaahsan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=youzaahsan&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
