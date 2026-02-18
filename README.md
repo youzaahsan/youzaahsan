@@ -77,16 +77,11 @@ I don’t just write code — I design **solutions that scale.**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=youzaahsan&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=youzaahsan&theme=github-dark&hide_border=true&cache_seconds=86400" height="165"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youzaahsan&theme=github_dark" />
 </p>
-
 
 ---
 
