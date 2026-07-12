@@ -1,231 +1,405 @@
-# 👋 Youza Ahsan
-### Full Stack Developer · Flutter Engineer · UI/UX-Focused Problem Solver
+# 👋 Hi, I'm Youza Ahsan
+
+<h3 align="center">
+Full Stack Developer • Flutter Engineer • UI/UX-Focused Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=00E0FF&center=true&vCenter=true&width=800&lines=Engineering+Scalable+Digital+Products;Building+High-Performance+Mobile+Apps;Designing+Modern+%26+Impactful+User+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=00E0FF&center=true&vCenter=true&width=900&lines=Engineering+Scalable+Digital+Products;Building+High-Performance+Mobile+Applications;Creating+Modern+Web+Experiences;Designing+Clean+UI%2FUX;Turning+Ideas+Into+Powerful+Software" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/youzaahsan">
-    <img src="https://img.shields.io/github/followers/youzaahsan?label=Followers&style=for-the-badge&color=0A192F&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=youzaahsan&label=Profile+Views&style=for-the-badge&color=0A192F" />
+<a href="https://github.com/youzaahsan">
+<img src="https://img.shields.io/github/followers/youzaahsan?style=for-the-badge&logo=github&color=0A192F"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=youzaahsan&style=for-the-badge&color=0A192F"/>
+
+<img src="https://img.shields.io/github/stars/youzaahsan?style=for-the-badge&color=0A192F"/>
 </p>
 
 ---
 
-## 🧠 Who I Am
+# 🚀 About Me
 
-I build **scalable web platforms and high-performance mobile applications** that solve real business problems — not just ship code.
+I'm **Youza Ahsan**, a passionate **Full Stack Developer** and **Flutter Engineer** focused on building scalable web applications, high-performance mobile apps, and modern user experiences.
 
-- 💼 1+ Year of Professional Development Experience
-- 📱 Cross-Platform Mobile Specialist (Flutter · Android · iOS)
-- ⚙️ Performance-Driven Backend Architecture
-- 🎨 UI/UX Mindset with Engineering Precision
+I enjoy solving real business problems with clean architecture, optimized performance, and beautiful UI.
 
-> I don't just write code — I design **solutions that scale.**
+> **"I don't just write code — I build solutions that scale."**
 
 ---
 
-## 🛠 Tech Arsenal
+## 💼 Professional Summary
+
+* 💼 1+ Year Professional Development Experience
+* 📱 Flutter Mobile App Developer
+* 🌐 Full Stack Web Developer
+* ⚡ Performance-Oriented Programming
+* 🎨 UI/UX Focused Development
+* 🔥 Firebase & REST API Integration
+* 🛠 Clean Architecture & Maintainable Code
+* 🚀 Fast Learner & Problem Solver
+
+---
+
+# 🌐 Portfolio & Contact
+
+📧 **Email**
+
+> **[youzaahsan1@gmail.com](mailto:youzaahsan1@gmail.com)**
+
+🌍 **Portfolio**
+
+> https://youzaahsan.github.io
+
+💻 **GitHub**
+
+> https://github.com/youzaahsan
+
+💼 **LinkedIn**
+
+> https://linkedin.com/in/ahsan-manzoor
+
+---
+
+# 🛠 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,react,flutter,dart,mysql,firebase,mongodb,nodejs,threejs,wordpress,figma,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,nodejs,php,mysql,mongodb,firebase,html,css,threejs,wordpress,figma,git,github,vscode&perline=9"/>
+
 </p>
 
-| Layer | Technologies |
-|---|---|
-| **Frontend** | JavaScript, TypeScript, React.js, HTML, CSS |
-| **Backend** | PHP, MySQL, Node.js |
-| **Mobile** | Flutter, Dart |
-| **Database** | MySQL, Firebase Firestore, MongoDB |
-| **Design** | Figma |
-| **Tools** | Git, GitHub, VS Code, WordPress, Elementor |
+| Category        | Technologies                                |
+| --------------- | ------------------------------------------- |
+| Frontend        | HTML, CSS, JavaScript, TypeScript, React.js |
+| Mobile          | Flutter, Dart                               |
+| Backend         | PHP, Node.js                                |
+| Database        | MySQL, MongoDB, Firebase Firestore          |
+| CMS             | WordPress, Elementor                        |
+| UI Design       | Figma                                       |
+| Version Control | Git, GitHub                                 |
+| Tools           | VS Code                                     |
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Services
 
-### 🛒 Online Book Shop — Mobile App
-**Flutter · Firebase**
-- Cross-platform mobile bookstore (Android & iOS)
-- Cart, wishlist, and authentication flows
-- Seamless checkout experience with Firebase backend
+✔ Flutter Mobile App Development
 
----
+✔ Full Stack Web Development
 
-### ⌚ Watch Hub
-**Flutter · Dart**
-- Dedicated watch shopping app
-- Full product listing and cart system
-- Clean, performance-optimized mobile UI
+✔ Responsive Website Development
 
----
+✔ REST API Integration
 
-### 🛍 Daraz Mobile App Clone
-**Flutter · Dart**
-- Fully functional e-commerce app clone
-- Category browsing, cart management
-- Responsive and performant UI architecture
+✔ Firebase Authentication
 
----
+✔ Firebase Firestore
 
-### 🏥 COVID Hospital Management System
-**PHP · MySQL**
-- Dual-role dashboard for patients and hospital staff
-- Digital vaccination workflow and patient records
-- Secure admin control panel
+✔ MongoDB Backend
 
----
+✔ PHP & MySQL Applications
 
-### 📚 Online Book Shop — Website
-**PHP · MySQL**
-- Full book catalog with search and filtering
-- Cart, checkout, and order management
-- Admin dashboard for inventory control
+✔ React.js Development
+
+✔ WordPress Business Websites
+
+✔ Landing Page Development
+
+✔ UI/UX Design Implementation
+
+✔ Website Performance Optimization
+
+✔ Bug Fixing & Maintenance
+
+✔ Admin Dashboard Development
+
+✔ Deployment & Hosting
 
 ---
 
-### 🎓 Student Profile Dashboard
-**React.js · TypeScript**
-- Comprehensive student data management UI
-- Light/dark theme switcher
-- Fully responsive layout
+# 🚀 Featured Projects
+
+## 📚 Online Book Shop Mobile App
+
+**Flutter • Firebase**
+
+* Authentication
+* Cart & Wishlist
+* Checkout
+* Firebase Backend
+* Android & iOS
 
 ---
 
-### 🌐 React API Fetch — Products
+## ⌚ Watch Hub
+
+**Flutter • Dart**
+
+* Product Listing
+* Shopping Cart
+* Clean UI
+* Optimized Performance
+
+---
+
+## 🛒 Daraz Clone
+
+**Flutter**
+
+* E-Commerce
+* Categories
+* Cart
+* Responsive Design
+
+---
+
+## 🏥 COVID Hospital Management System
+
+**PHP • MySQL**
+
+* Hospital Dashboard
+* Patient Management
+* Vaccination Records
+* Admin Panel
+
+---
+
+## 📖 Online Book Shop Website
+
+**PHP • MySQL**
+
+* Product Catalog
+* Search
+* Checkout
+* Admin Dashboard
+
+---
+
+## 🎓 Student Dashboard
+
+**React.js • TypeScript**
+
+* Student Management
+* Dark Mode
+* Responsive UI
+
+---
+
+## 🌍 React API Products
+
 **React.js**
-- Live API integration with dynamic product rendering
-- Efficient state management
-- Clean, component-driven architecture
+
+* API Fetching
+* Dynamic Products
+* Component Architecture
 
 ---
 
-### 🔐 Role-Based Routing Dashboard
+## 🔐 Role Based Dashboard
+
 **React.js**
-- Protected routes with role-based access control
-- Multi-role user management
-- Modular dashboard system
+
+* Protected Routes
+* Authentication
+* User Roles
 
 ---
 
-### 🎨 3D Product Showcase Portfolio
-**Three.js · JavaScript**
-- Real-time 3D product visualization
-- Interactive animations and camera controls
-- Modern, immersive portfolio experience
+## 🎨 3D Portfolio
+
+**Three.js**
+
+* Interactive Models
+* Animations
+* Camera Controls
 
 ---
 
-### ⚽ Sports Website
-**HTML · CSS · JavaScript**
-- Sports news, team profiles, and match pages
-- Fully responsive across all screen sizes
-- Clean, content-focused layout
+## ⚽ Sports Website
+
+**HTML CSS JavaScript**
+
+* Responsive Layout
+* Sports News
+* Team Pages
 
 ---
 
-### 📄 PDF Converter
+## 📄 PDF Converter
+
 **TypeScript**
-- Fast, reliable file conversion tool
-- Type-safe implementation
-- Minimal and intuitive UI
+
+* Fast Conversion
+* Clean UI
 
 ---
 
-### 🤖 AI Tags & Content Generator
-**PHP · JavaScript**
-- Automated SEO tag and metadata generation
-- Streamlines marketing content creation
-- Optimized for search engine performance
+## 🤖 AI Tags Generator
+
+**PHP JavaScript**
+
+* SEO Metadata
+* AI Content
+* Marketing Automation
 
 ---
 
-### 🌐 WordPress Websites
-**WordPress · Elementor**
-- Business websites and landing pages
-- SEO-optimized builds
-- Custom, conversion-focused layouts
+## 🌍 WordPress Websites
+
+* Business Websites
+* Landing Pages
+* Elementor
+* SEO Optimized
 
 ---
 
-### 📝 PHP CRUD System
-**PHP · MySQL**
-- Full create, read, update, delete functionality
-- Search and filter capabilities
-- Clean admin panel interface
+## 📝 PHP CRUD System
+
+* CRUD Operations
+* Search
+* Admin Panel
 
 ---
 
-### 🔥 Firebase Projects
-**Firebase**
-- Authentication (email, social, anonymous)
-- Firestore real-time database integration
-- Cloud storage implementation
+## 🔥 Firebase Projects
+
+* Authentication
+* Firestore
+* Storage
 
 ---
 
-### 🍃 MongoDB Projects
-**MongoDB · Node.js**
-- CRUD operations with proper schema design
-- Backend API integration
-- Scalable document-based architecture
+## 🍃 MongoDB Projects
+
+* CRUD
+* REST APIs
+* Schema Design
 
 ---
 
-### 🎓 Student Profile Dashboard — HTML
-**HTML · CSS**
-- Static student management UI
-- Profile card components
-- Fully responsive design
+## 💰 Expense Tracker
 
----
-
-### 💰 Expense Tracker
 **TypeScript**
-- Income and expense tracking with categorization
-- Budget management and real-time calculations
-- Clean, intuitive dashboard UI
+
+* Budget Management
+* Expense Tracking
+* Dashboard
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youzaahsan&theme=github_dark" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youzaahsan&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youzaahsan&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 💡 What Sets Me Apart
+# 🔥 GitHub Streak
 
-| | |
-|---|---|
-| ✔ | Clean, maintainable architecture |
-| ✔ | Business-oriented development mindset |
-| ✔ | Pixel-perfect UI execution |
-| ✔ | Performance optimization at every layer |
-| ✔ | Reliable, on-time delivery |
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youzaahsan&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🌍 Let's Connect
+# 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/youzaahsan">
-    <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:youzaahsan1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youzaahsan&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/youzaahsan/youzaahsan/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+> **Note:** To make the Contribution Snake work, you'll need to enable a GitHub Action that generates the SVG file in your profile repository.
+
+---
+
+# 💡 What Sets Me Apart
+
+✅ Clean Architecture
+
+✅ Scalable Applications
+
+✅ Pixel Perfect UI
+
+✅ Business-Oriented Development
+
+✅ Performance Optimization
+
+✅ Cross Platform Expertise
+
+✅ Modern Development Practices
+
+✅ Reliable Delivery
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/youzaahsan">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://linkedin.com/in/ahsan-manzoor">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:youzaahsan1@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://youzaahsan.github.io">
+
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome"/>
+
+</a>
+
+</p>
+
+---
+
+# ❤️ Thanks For Visiting
+
+<p align="center">
+
+⭐ If you like my work, consider following me on GitHub.
+
+🚀 Always building. Always learning.
+
 </p>
 
 ---
 
 <p align="center">
-  <b>"Building technology that drives impact, not just impressions."</b>
+
+<b>Building technology that drives impact, not just impressions.</b>
+
 </p>
