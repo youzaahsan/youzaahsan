@@ -354,12 +354,6 @@ Built an **AI-powered content automation tool** that generates SEO metadata, has
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=%F0%9F%93%88+Contribution+Graph;%F0%9F%94%A5+GitHub+Streak;%F0%9F%93%8A+GitHub+Statistics;%F0%9F%92%BB+Top+Languages;%E2%9A%A1+Profile+Activity+Overview" alt="GitHub Analytics Animation"/>
-
-</div>
-
-<br/>
-
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=youzaahsan&theme=tokyo-night&hide_border=true" />
