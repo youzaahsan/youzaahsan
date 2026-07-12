@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,40:0A1628,80:001F3F,100:0D1F3C&height=220&section=header&text=Youza%20Ahsan&fontSize=62&fontColor=00D4FF&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20Flutter%20Engineer%20%E2%80%A2%20UI%2FUX%20Designer&descAlignY=63&descSize=16&animation=fadeIn&stroke=00D4FF&strokeWidth=0.8" />
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,40:0A1628,80:001F3F,100:00D4FF&height=250&section=header&text=Youza%20Ahsan&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer%20•%20Flutter%20Developer%20•%20AI-Assisted%20Developer&descAlignY=62"/>
+</p>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=00D4FF&center=true&vCenter=true&width=780&lines=%E2%96%B8+Full-Stack+Developer;%E2%96%B8+Flutter+%26+Mobile+Engineer;%E2%96%B8+UI%2FUX+Designer;%E2%96%B8+Architecting+Scalable+Digital+Products;%E2%96%B8+Open+to+Senior+Full-Time+Roles" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=00D4FF&center=true&vCenter=true&width=780&lines=%E2%96%B8+FrontEnd-+Developer;%E2%96%B8+Flutter+%26+Mobile+Engineer;%E2%96%B8+UI%2FUX+Designer;%E2%96%B8+Architecting+Scalable+Digital+Products;%E2%96%B8+Open+to+Senior+Full-Time+Roles" alt="Typing Animation" />
 
 <br/><br/>
 
@@ -345,7 +347,17 @@ Built an **AI-powered content automation tool** that generates SEO metadata, has
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=400&color=00D4FF&center=true&vCenter=true&width=800&lines=%E2%96%B8+Advanced+Flutter+architectures+%26+state+management+patterns;%E2%96%B8+Scalable+SaaS+platforms+with+Node.js+%26+MongoDB;%E2%96%B8+AI-powered+application+features+%26+automation+workflows;%E2%96%B8+React.js+%2B+TypeScript+component+systems+%26+performance+optimization;%E2%96%B8+Three.js+%26+immersive+3D+web+experiences" alt="Currently Building" />
 
 </div>
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youzaahsan&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=youzaahsan&theme=github_dark" width="49%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youzaahsan&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youzaahsan&theme=github_dark&utcOffset=5" width="49%" />
+
+</div>
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
