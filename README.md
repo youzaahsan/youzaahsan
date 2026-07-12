@@ -350,21 +350,30 @@ Built an **AI-powered content automation tool** that generates SEO metadata, has
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
-## 📈 GitHub Activity
-
-<br/>
+## 📊 GitHub Analytics
 
 <div align="center">
 
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youzaahsan&theme=tokyo-night&hide_border=true" />
+
+<br/><br/>
+
+## 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youzaahsan&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+## 📊 GitHub Statistics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youzaahsan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youzaahsan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youzaahsan&theme=github_dark" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youzaahsan&theme=tokyonight&hide_border=true&background=0D0D1A&stroke=00D4FF&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=475569&sideNums=e2e8f0&currStreakNum=00d4ff" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youzaahsan&layout=compact&theme=tokyonight&bg_color=0D0D1A&border_color=00D4FF&title_color=00D4FF&text_color=e2e8f0" />
 
 </div>
 
