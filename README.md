@@ -354,11 +354,21 @@ Built an **AI-powered content automation tool** that generates SEO metadata, has
 
 <div align="center">
 
-## 📈 Contribution Graph
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youzaahsan&theme=tokyo-night&hide_border=true" />
+<h2>📈 Contribution Graph</h2>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Watching+My+Contribution+Journey...;Every+Commit+Counts...;Coding+%F0%9F%92%BB+Creating+%F0%9F%9A%80+Learning+%F0%9F%93%9A" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youzaahsan&theme=tokyo-night&hide_border=true" width="100%" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/youzaahsan/youzaahsan/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
 
 ## 🔥 GitHub Streak
 
