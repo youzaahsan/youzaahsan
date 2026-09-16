@@ -374,7 +374,7 @@ Built an **AI-powered content automation tool** that generates SEO metadata, has
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youzaahsan&theme=tokyo-night&hide_border=true" width="100%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=youzaahsan&theme=tokyo-night&hide_border=true" width="100%" /> -->
 
 <br><br>
 
@@ -390,8 +390,7 @@ Built an **AI-powered content automation tool** that generates SEO metadata, has
 
 ## 📊 GitHub Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youzaahsan&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youzaahsan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=youzaahsan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/> <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=youzaahsan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 <br/><br/>
 
