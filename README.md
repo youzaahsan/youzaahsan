@@ -388,9 +388,9 @@ Built an **AI-powered content automation tool** that generates SEO metadata, has
 
 <br/><br/>
 
-## 📊 GitHub Statistics
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=youzaahsan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/> <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=youzaahsan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+<!-- <img height="180em" src="https://github-stats-extended.vercel.app/api?username=youzaahsan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/> <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=youzaahsan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/> -->
 
 <br/><br/>
 
